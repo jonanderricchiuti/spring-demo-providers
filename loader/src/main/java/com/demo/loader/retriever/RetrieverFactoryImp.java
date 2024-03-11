@@ -1,11 +1,11 @@
-package com.mona.loader.retriever;
+package com.demo.loader.retriever;
 
-import com.mona.core.api.Retriever;
-import com.mona.core.api.RetrieverFactory;
-import com.mona.loader.provider.BBVAProvider;
-import com.mona.loader.provider.SantanderProvider;
-import com.mona.loader.service.UpdateInstrumentService;
-import com.mona.loader.service.UpdateTransactionService;
+import com.demo.core.api.Retriever;
+import com.demo.core.api.RetrieverFactory;
+import com.demo.loader.provider.BBVAProvider;
+import com.demo.loader.provider.SantanderProvider;
+import com.demo.loader.service.UpdateInstrumentService;
+import com.demo.loader.service.UpdateTransactionService;
 import java.time.Instant;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

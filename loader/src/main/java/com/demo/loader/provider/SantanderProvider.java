@@ -1,4 +1,4 @@
-package com.mona.loader.provider;
+package com.demo.loader.provider;
 
 import java.time.Instant;
 import java.util.List;
@@ -14,7 +14,7 @@ public class SantanderProvider implements InstrumentProvider, TransactionProvide
 
   @Override
   public String toInstrument(String instrument) {
-    return "monaInstrument";
+    return "domainInstrument";
   }
 
   @Override

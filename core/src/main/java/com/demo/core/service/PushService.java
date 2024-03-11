@@ -1,4 +1,4 @@
-package com.mona.core.service;
+package com.demo.core.service;
 
 import java.util.List;
 import org.springframework.stereotype.Component;

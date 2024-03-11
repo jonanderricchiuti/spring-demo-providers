@@ -1,6 +1,6 @@
-package com.mona.loader.retriever;
+package com.demo.loader.retriever;
 
-import com.mona.core.api.Retriever;
+import com.demo.core.api.Retriever;
 
 public abstract class RetrieverDecorator extends Retriever {
 

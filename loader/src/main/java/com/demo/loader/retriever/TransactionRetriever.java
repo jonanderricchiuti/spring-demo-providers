@@ -1,9 +1,9 @@
-package com.mona.loader.retriever;
+package com.demo.loader.retriever;
 
-import com.mona.core.api.Retriever;
-import com.mona.loader.model.Entity;
-import com.mona.loader.provider.TransactionProvider;
-import com.mona.loader.service.UpdateTransactionService;
+import com.demo.core.api.Retriever;
+import com.demo.loader.model.Entity;
+import com.demo.loader.provider.TransactionProvider;
+import com.demo.loader.service.UpdateTransactionService;
 import java.time.Instant;
 import java.util.List;
 

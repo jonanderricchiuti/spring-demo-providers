@@ -1,9 +1,8 @@
-package com.mona.loader.service;
+package com.demo.loader.service;
 
-import com.mona.core.service.PushService;
-import com.mona.loader.model.Entity;
-import com.mona.loader.repository.ProviderInstrumentRepository;
-import com.mona.loader.repository.ProviderTransactionRepository;
+import com.demo.core.service.PushService;
+import com.demo.loader.model.Entity;
+import com.demo.loader.repository.ProviderInstrumentRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

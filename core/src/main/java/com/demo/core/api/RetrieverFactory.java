@@ -1,4 +1,4 @@
-package com.mona.core.api;
+package com.demo.core.api;
 
 public interface RetrieverFactory {
   Retriever getRetriever(String user, String institution, String credentials);

@@ -1,4 +1,4 @@
-package com.mona.loader.repository;
+package com.demo.loader.repository;
 
 import java.util.List;
 

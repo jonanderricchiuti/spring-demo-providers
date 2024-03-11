@@ -1,4 +1,4 @@
-package com.mona.loader.model;
+package com.demo.loader.model;
 
 import lombok.Builder;
 import lombok.Data;

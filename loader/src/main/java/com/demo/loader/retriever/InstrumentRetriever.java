@@ -1,12 +1,11 @@
-package com.mona.loader.retriever;
+package com.demo.loader.retriever;
 
-import com.mona.core.api.Retriever;
-import com.mona.loader.model.Entity;
-import com.mona.loader.provider.InstrumentProvider;
-import com.mona.loader.service.UpdateInstrumentService;
+import com.demo.core.api.Retriever;
+import com.demo.loader.model.Entity;
+import com.demo.loader.provider.InstrumentProvider;
+import com.demo.loader.service.UpdateInstrumentService;
 import java.time.Instant;
 import java.util.List;
-import org.springframework.scheduling.annotation.Async;
 
 public class InstrumentRetriever extends RetrieverDecorator {
 

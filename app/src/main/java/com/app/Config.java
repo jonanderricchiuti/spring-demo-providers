@@ -6,7 +6,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 
 @Configuration
 @EnableAsync
-@ComponentScan({"com.mona"})
+@ComponentScan({"com.demo"})
 public class Config {
 
 }
